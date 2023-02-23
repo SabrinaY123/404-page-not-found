@@ -1,3 +1,106 @@
 body { 
     font-family: 'Space Mono', monospace;
 }
+
+/* Header */
+
+header {
+    margin: 3%;
+}
+
+.header {
+    color: #333333;
+    font-family: 'Inconsolata', monospace;
+    font-size: 1.2rem;
+    font-weight: 600;
+    letter-spacing: -0.1em;
+}
+
+.heading {
+    color: #333333;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 2;
+}
+
+/* Main Page */
+
+.main-container {
+    display: flex;
+    margin: 5%;
+}
+
+/* Image of Main Page */
+
+.image {
+    margin-right: 5%;
+}
+
+.scarecrow-img {
+    width: 100%;
+    
+}
+
+/* Text of Main Page */
+
+.main-text {
+    margin-left: 5%;
+    padding-right: 5%;
+}
+
+.description {
+    color: #4F4F4F;
+    font-size: 1.3rem;
+    width: 62%;
+}
+
+.homepage-button {
+    margin-top: 20%;
+}
+
+.btn {
+    font-family: 'Space Mono', monospace;
+    color: #ffffff;
+    font-size: 15px;
+    background: #333333;
+    padding: 30px;
+    text-decoration: none;
+}
+  
+  .btn:hover {
+    background: #050505;
+    text-decoration: none;
+}
+
+/* Footer */
+
+footer {
+    margin-top: 200px;
+}
+
+.footer {
+    color:#BDBDBD;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.portfolio-link {
+    color: #BDBDBD;
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+
+
+/* Media Query for Mobile Version */
+  
+@media only screen and (max-width: 600px) {
+    .main-container {
+        display: block;
+    }
+
+    .description {
+        width: 100%;
+    }
+
+}
