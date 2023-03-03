@@ -72,5 +72,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://sabrinay123.github.io/Personal-Site/)
-- GitHub [@your-username](https://github.com/SabrinaY123)
+- Website [sabrinay123/github.io/Personal-Site/](https://sabrinay123.github.io/Personal-Site/)
+- GitHub [@SabrinaY123](https://github.com/SabrinaY123)
+- Discord [@SabrinaY#5407](https://discord.com/)
